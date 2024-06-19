@@ -1,16 +1,34 @@
-# my_flutter_app
+# Cat or Dog - Image Classification Flutter App🐈 🐕
 
-A new Flutter project.
+This Flutter application allows users to upload an image of a cat or a dog and receive a prediction with a confidence percentage from a server. The application includes functionality to pick an image from the gallery, upload it to a server, and display the prediction result.
+
+## Features ⚙️
+
+- Pick an image from the gallery.
+- Upload the selected image to a server.
+- Receive and display prediction results with confidence percentage.
+- Handle and display errors appropriately.
+
+## Demo 💻
+
+
+
+https://github.com/Twinn-github09/Flutter-app-using-GCP/assets/88413854/150c5034-5b95-409d-bf20-9c3950ca103b
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/docs/get-started/install) installed on your machine.
+- A device or emulator to run the Flutter application.
+- An API server endpoint that accepts image uploads and returns prediction results in HTML format.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/yourusername/cat-or-dog.git
+   cd cat-or-dog
