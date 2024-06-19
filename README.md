@@ -19,12 +19,6 @@ https://github.com/Twinn-github09/Flutter-app-using-GCP/assets/88413854/150c5034
 
 ## Getting Started
 
-### Prerequisites
-
-- [Flutter](https://flutter.dev/docs/get-started/install) installed on your machine.
-- A device or emulator to run the Flutter application.
-- An API server endpoint that accepts image uploads and returns prediction results in HTML format.
-
 ### Installation
 
 1. **Clone the repository**
