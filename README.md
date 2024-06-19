@@ -28,5 +28,5 @@ https://github.com/Twinn-github09/Flutter-app-using-GCP/assets/88413854/150c5034
    cd cat-or-dog
 
 ## Links 
-- GCP https://my-repo-lgcs2dkt6a-uc.a.run.app
+- GCP https://my-repo-lgcs2dkt6a-uc.a.run.app/upload
 - DockerHub https://hub.docker.com/r/roshandocker09/my_repo
